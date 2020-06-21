@@ -5,7 +5,7 @@ Visualization and Applying linear models on determining the churn, a hackathon w
 Data-Set Taken from https://www.kaggle.com/blastchar/telco-customer-churn
 
 ## Results:
-### Every Feature importance from data set: 
+### Every Feature importance from data set for customer to get churn: 
 ![GitHub Logo](images/Capture.PNG)
 
 ### Classification Report
